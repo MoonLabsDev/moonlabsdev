@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Nico
 
+I am 33 & living in Germany.
+In 2023 I founded my company Moon Labs UG.
+We specialize in Web3 & AI and have a network of multiple Web3 companies for bigger Projects.
+
 ### 🔭 I’m currently working on:
 - multiple Freelancer jobs in Web3
 
